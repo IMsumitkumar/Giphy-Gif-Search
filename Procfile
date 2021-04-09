@@ -1,0 +1,1 @@
+web: gunicorn giphy.wsgi --log-file -
